@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Eric Kleinschmidt
+### On the Data Science Journey
 
-You can use the [editor on GitHub](https://github.com/ericwk/ericwk.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<p class="message">
+  Hey there! This page is about me and my journey to become a data scientist.  My interest in data science comes from a passion to improve the success rate of innovation to drive business growth.  Innovation that leads to business growth involves understanding a market need and understanding how to meet that need via a solution that people will use to improve their lives (provides added value). Data is the lowest level of understanding.  Data by itself has no value beyond its potential to be transformed into understanding that adds value, which we might define as 'wisdom'.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ericwk/ericwk.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  To me, data science is the process of transforming data into a shared understanding and ideally into shared wisdom.  Business growth through innovation is a potential outcome of shared wisdom that adds value to the lives of the people involved.  This is the application of data science that I am interested in and passionate about.
+</p>
