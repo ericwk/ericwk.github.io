@@ -23,7 +23,7 @@ The mathematical calculations needed to predict the outcome of complex processes
 
 Information technology (IT) and the computer hardware that drives it helped speed up these calculations.  Scientists thought about the application of IT to capturing and making use of data and came up with a model for the process.  This model is known as the information systems view of how data can be processed<sup>1,4</sup> to provide value and is illustrated below.
 
-![image](images/../information_systems_model.png)
+![image](../images/information_systems_model.png)
 
 This model suggests that IT can help us on our journey toward wisdom.  I propose that wisdom can help us on our journey to Nirvana if we choose appropriate goals for our decisions and judgements for which we seek wisdom.  
 
