@@ -3,8 +3,6 @@ layout: post
 title: Can Data Science Help Us Reach Nirvana
 ---
 
-# Can Data Science Help Us Reach Nirvana
-
 In Buddhism, Nirvana is the goal.  Because the goal is never reached, it is the journey that is important.  Nirvana literally means "quenching" or "blowing out" as in blowing out a candle [see](https://tricycle.org/magazine/nirvana-2).  What is extinguished with Nirvana is the triple fire of greed, hatred and delusion and transforming these into peace, compassion and deep spiritual joy.  I think that most of us would agree that moving forward on the journey toward Nirvana would be good for all of us, although we may choose to describe it differently.
 
 Can data science help us move forward on this journey?  I think, similar to the journey toward Nirvana, that the journey is more important than the answer.  I am on that journey and perhaps what I learn along the way can be helpful to others.  Because I am an engineer I believe that data can move us forward on any journey (or perhaps because I believe this I am an engineer).  Let's get started.
