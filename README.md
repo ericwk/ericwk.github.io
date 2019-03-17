@@ -7,3 +7,7 @@
 
   To me, data science is the process of transforming data into a shared understanding and ideally into shared wisdom.  Business growth through innovation is a potential outcome of shared wisdom that adds value to the lives of the people involved.  This is the application of data science that I am interested in and passionate about.
 </p>
+
+### Contact me
+
+[ericwk@comcast.net](mailto:ericwk@comcast.net)
