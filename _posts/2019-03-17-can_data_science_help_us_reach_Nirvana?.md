@@ -13,7 +13,7 @@ Scientists studied the process of converting data into wisdom and proposed a mod
 
 ![image](../images/DIKW_model.png)
 
-The endpoint of this process is wisdom.  What is wisdom?  One definition is "the ability to use knowledge and experience to make good decisions and judgements" [see](https://dictionary.cambridge.org/us/dictionary/english/wisdom).
+The endpoint of this process is wisdom.  What is wisdom?  One definition is "the ability to use knowledge and experience to make good decisions and judgements" [(see)](https://dictionary.cambridge.org/us/dictionary/english/wisdom).
 
 We did not call these scientists "data scientists" and the field of thinking about this process is relatively narrow.  Other scientists were busy making observations (creating data) and trying to figure out how to use it to become wise.  Mathematics was developed and advanced as a language to support this process (as well as for other reasons), and from it came statistics and predictive algorithms to support making predictions.  Good predictions are important to wisdom.  Eventually, engineers came along to try to do something with this data (often before it became wisdom) and to help with finding wisdom.  
 Nirvana
