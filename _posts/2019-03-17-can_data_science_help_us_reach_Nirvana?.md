@@ -32,7 +32,7 @@ Business is the means by which many of us seek to make our lives better.  I sugg
 If we take this goal for business, then business can help us move forward on our journey to Nirvana.  We can then focus on whether of not data science can help us move our businesses forward and our answer will apply to get us closer to Nirvana as well.  I believe that data science can help us improve business success and therefore can help us reach Nirvana.  That will be the focus of my journey.  More specifically, I will focus on using data science to be more successful with innovation as a means to improve business performance.
 
 **References**
-1 Ylijoki, O. and Parras, J. (2018), "A recipe for big data value creation", *Business Process Management Journal*, https://doi.org/10.1108/BPMJ-03-2018-0082.
-2 Ackoff, R.(1989), "From data to wisdom", *Journal of Applied System Analysis*, 16, 3-9.
-3 Zeleny, M. (1987), "Management support systems: towards integrated knowledge management", *Human Systems Management*, Vol. 7, No. 1, pp 59-70.
-4 Rayport, J.F. and Sviokla J.J. (1995), "Exploring the virtual value chain", *Harvard Business Review*, Vol. 73, No. 6, pp. 75-85.
+1. Ylijoki, O. and Parras, J. (2018), "A recipe for big data value creation", *Business Process Management Journal*, https://doi.org/10.1108/BPMJ-03-2018-0082.  
+2. Ackoff, R.(1989), "From data to wisdom", *Journal of Applied System Analysis*, 16, 3-9.  
+3. Zeleny, M. (1987), "Management support systems: towards integrated knowledge management", *Human Systems Management*, Vol. 7, No. 1, pp 59-70.  
+4. Rayport, J.F. and Sviokla J.J. (1995), "Exploring the virtual value chain", *Harvard Business Review*, Vol. 73, No. 6, pp. 75-85.
